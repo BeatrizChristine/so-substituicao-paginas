@@ -1,4 +1,4 @@
-# imulador de Substituição de Páginas 🖥️
+# Simulador de Substituição de Páginas (2025)🖥️
 **Trabalho Prático III — Sistemas Operacionais (IEC584)**  
 Autor: **Beatriz Christine Azevedo Batista**  
 
